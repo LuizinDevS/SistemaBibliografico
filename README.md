@@ -3,9 +3,7 @@
 # 🚀 Projeto de Inovação - SAGA SENAI
 
 # 🧠 Contexto
-A proposta do projeto era desenvolver uma solução para que permitisse o gerenciamento das tarefas biblioteconomicas.
-
-![Protótipo](https://storage.googleapis.com/xesque-dev/challenge-images/prototipo.png?42)
+A proposta do projeto era desenvolver uma solução para que permitisse o gerenciamento das tarefas biblioteconômicas.
 
 ## 💜 O projeto utilizou as seguintes tecnologias:
 - [ ] Eclipse IDE
