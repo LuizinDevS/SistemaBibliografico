@@ -1,4 +1,4 @@
-![image](.\src\Imagens\Capa_Bibliotec.png)
+![image](https://github.com/LuizinDevS/SistemaBibliografico/blob/master/src/Imagens/Capa_Bibliotec.png)
 
 # 🚀 Projeto de Inovação - SAGA SENAI
 
