@@ -1,4 +1,4 @@
-![image](C:\Users\luizo\Downloads\bibliotec.jpg)
+![image](.\src\Imagens\Capa_Bibliotec.png)
 
 # 🚀 Projeto de Inovação - SAGA SENAI
 
